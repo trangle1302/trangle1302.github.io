@@ -1,8 +1,8 @@
 baseURL = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
-theme = "KeepIt"
+title = "ananke"
+theme = "ananke"
 
 paginate = 12
 enableEmoji = true
