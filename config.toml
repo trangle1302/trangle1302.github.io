@@ -20,9 +20,6 @@ disqusShortname = "yourdiscussshortname"
   nofollowLinks = true
   noreferrerLinks = true
 
-[Permalinks]
- posts = "" #"/:year/:filename/"
-
 [menu]
   [[menu.main]]
     name = "About"
