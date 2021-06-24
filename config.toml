@@ -45,7 +45,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Trang Le"      # Author's name
     subtitle = "Some Quote???"       # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "" # post or other
+    home_mode = "about" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
     
     google_verification = ""
@@ -67,8 +67,8 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params.social]
-    GitHub = "https://github.com/trangle1302"
-    Linkedin = "https://www.linkedin.com/in/trang-le-b12a6313b"
+    GitHub = "trangle1302"
+    Linkedin = "trang-le-b12a6313b"
     #Twitter = "xxxx"
     #Instagram = "xxxx"
     #Email   = "xxxx"
@@ -99,7 +99,7 @@ disqusShortname = "yourdiscussshortname"
     #Paypal = "xxxx"
     #Fivehundredpx = "xxxx"
     #Mix = "xxxx"
-    Goodreads = "https://www.goodreads.com/user/show/108692825-trang-le"
+    Goodreads = "108692825-trang-le"
     #Lastfm = "xxxx"
     #Foursquare = "xxxx"
     #Hackernews = "xxxx"
