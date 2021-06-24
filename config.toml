@@ -39,8 +39,8 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     since = 2021
-    author = "Trang Le"  # Author's name
-    subtitle = "zzzzzz.... Let's talk [here](lengochaitrang@gmail.com) when I am awake"       # Subtitle
+    author = "lengochaitrang@gmail.com"  # Author's name
+    subtitle = "zzzzzz...."       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
