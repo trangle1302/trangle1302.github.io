@@ -27,7 +27,7 @@ Protein functions are closely linked to its location. However, the relationship 
 
 # Other projects
 
-## Interactive biomedical segmentation tool powered by deep learning and ImJoy **
+## Interactive biomedical segmentation tool powered by deep learning and ImJoy
 https://f1000research.com/articles/10-142
 
 Repo: https://github.com/imjoy-team/imjoy-interactive-segmentation

@@ -40,7 +40,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2021
     author = "Trang Le"  # Author's name
-    subtitle = "zzzzzz"       # Subtitle
+    subtitle = "zzzzzz.... Let's talk [here](lengochaitrang@gmail.com) when I am awake"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
@@ -51,7 +51,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    #avatar = "/images/fox.png" #comment it to use gravatar
+    avatar = "/images/fox.png" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
@@ -60,7 +60,7 @@ disqusShortname = "yourdiscussshortname"
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.gravatar]
-    email = "lengochaitrang@gmail.com"   #uncomment and insert your email address to use gravatar
+    #email = "lengochaitrang@gmail.com"   #uncomment and insert your email address to use gravatar
 
 
 [params.social]
