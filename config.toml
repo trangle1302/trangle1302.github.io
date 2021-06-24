@@ -45,7 +45,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Trang Le"      # Author's name
     subtitle = "Some Quote???"       # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "about" # post or other
+    home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
     
     google_verification = ""
@@ -63,16 +63,16 @@ disqusShortname = "yourdiscussshortname"
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.gravatar]
-    #email = "example@gmail.com"   #uncomment and insert your email address to use gravatar
+    email = "lengochaitrang@gmail.com"   #uncomment and insert your email address to use gravatar
 
 
 [params.social]
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
+    GitHub = "https://github.com/trangle1302"
+    Linkedin = "https://www.linkedin.com/in/trang-le-b12a6313b"
+    #Twitter = "xxxx"
     #Instagram = "xxxx"
     #Email   = "xxxx"
-    Facebook = "xxxx"
+    #Facebook = "xxxx"
     #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
@@ -99,7 +99,7 @@ disqusShortname = "yourdiscussshortname"
     #Paypal = "xxxx"
     #Fivehundredpx = "xxxx"
     #Mix = "xxxx"
-    #Goodreads = "xxxx"
+    Goodreads = "https://www.goodreads.com/user/show/108692825-trang-le"
     #Lastfm = "xxxx"
     #Foursquare = "xxxx"
     #Hackernews = "xxxx"
@@ -126,10 +126,12 @@ disqusShortname = "yourdiscussshortname"
     #Thingiverse = "xxxx"
 
 [params.share]
-Twitter = true
-Facebook = true
+#Twitter = true
+#Facebook = true
 #Reddit = true
+Github = true
 Linkedin = true
+Goodreads = true
 #Pinterest = true
 #HackerNews = true
 #Mix = true
