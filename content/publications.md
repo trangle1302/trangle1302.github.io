@@ -1,8 +1,10 @@
----
-title: "Publications"
-date: 2021-06-24T21:09:44+02:00
-draft: true
----
++++
+title = "Publications"
+date = "2021-06-24"
+[ author ]
+  name = "Trang Le"
++++
+
 
 * Ouyang, W., Le, T., Xu, H., and Lundberg, E. Interactive biomedical segmentation tool powered by deep learning and ImJoy. F1000Research (2021). https://doi.org/10.12688/f1000research.50798.1
 * Mahdessian, D., Cesnik, A.J., Gnann, C. et al. Spatiotemporal dissection of the cell cycle with single-cell proteogenomics. Nature 590, 649–654 (2021). https://doi.org/10.1038/s41586-021-03232-9

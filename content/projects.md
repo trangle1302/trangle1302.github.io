@@ -1,8 +1,10 @@
----
-title: "Projects"
-date: 2021-06-24T21:09:37+02:00
-draft: true
----
++++
+title = "Projects"
+date = "2021-06-24"
+aliases = ["about-us","about-hugo","contact"]
+[ author ]
+  name = "Trang Le"
++++
 
 
 
