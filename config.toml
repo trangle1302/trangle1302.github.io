@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://trangle1302.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "Trang Le"
 theme = "KeepIt"
 
 paginate = 12
@@ -25,26 +25,27 @@ disqusShortname = "yourdiscussshortname"
 
 [menu]
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-
-  [[menu.main]]
     name = "About"
     url = "/about"
     weight = 4
 
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects"
+    weight = 3
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications"
+    weight = 1
+
+
 [params]
-    since = 2012
-    author = "Fastbyte01"               # Author's name
-    subtitle = "A Hugo theme"       # Subtitle
+    since = 2021
+    author = "Trang Le"      # Author's name
+    subtitle = "Some Quote???"       # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "" # post or other
+    home_mode = "about" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
     
     google_verification = ""
@@ -53,7 +54,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
+    avatar = "/images/cat.png" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
