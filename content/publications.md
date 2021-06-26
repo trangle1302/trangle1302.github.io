@@ -16,5 +16,6 @@ date = "2021-06-24"
 
 
 # Posters/Talks
+* Science for Life Laboratory seminar, online, June 2021. Short talk: “Modelling the spatial cell cycle with deep learning”
+* AICS/HPA/CZI/CZB symposium, online, February 2021. Short talk: “Kaggle challenge: HPA - Single Cell Classification”
 * NEUBIAS, Bordeaux, March 2020. Poster presentation: “Deep learning model for the cell cycle”
-* AICS/HPA/CZI/CZB symposium, online, July 2021. Short talk: “Kaggle challenge: HPA - Single Cell Classification”
