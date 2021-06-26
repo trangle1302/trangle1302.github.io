@@ -19,7 +19,6 @@ disqusShortname = "yourdiscussshortname"
   hrefTargetBlank = true
   nofollowLinks = true
   noreferrerLinks = true
-
 [menu]
   [[menu.main]]
     name = "About"
@@ -29,7 +28,7 @@ disqusShortname = "yourdiscussshortname"
   [[menu.main]]
     name = "Projects"
     url = "/projects"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Publications"
