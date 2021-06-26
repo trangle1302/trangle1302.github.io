@@ -50,7 +50,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "/images/ava_oil.png" #comment it to use gravatar
+    avatar = "/images/fox.png" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
