@@ -39,7 +39,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2021
     author = "lengochaitrang@gmail.com"  # Author's name
-    subtitle = "zzzzzz...."       # Subtitle
+    subtitle = "A data science enthusiast"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
@@ -50,7 +50,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "/images/ava1.png" #comment it to use gravatar
+    avatar = "/images/ava1.jpg" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
