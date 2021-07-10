@@ -3,4 +3,4 @@
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "themes/KeepIt"]
 	path = themes/KeepIt
-	url = https://github.com/Fastbyte01/KeepIt.git
+	url = https://github.com/anddani/KeepIt.git
