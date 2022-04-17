@@ -8,24 +8,24 @@ date = "2022-04-17"
 Occationally, I'd second-guess myself. This is a list just to keep facts about what I've done, what I'm doing and want to do in the future.
 
 # Done
-✓ Lived in 3 continents (Asia, Europe, America)
-✓ Went on an Europan trip with my whole family (Sweden, Germany,  Czech, Autria, Italy, and a cruise to Helsinki!)
-✓ Stayed in a castle (for a conference in Bertinoro)
-✓ Watched a musical in London theather (Kinky Boots)
-✓ Visited China town in London and San Francisco
-✓ Learned Lindy Hop
-✓ Published in Nature Genetics, Nature (and soon Nature Methods *finger crossed*)
-✓ Blood donation in Hanoi, Bremen, London and Stockholm (finding place in CA)
-✓ Organized parties
-✓ Learned an instrument (piano)
-✓ Saw the Northern Lights
-✓ Had pets: cats, dogs, rabbit, fish, bird, mini turtle, hamster
-✓ [Get featured in video](https://ethz.ch/en/studies/non-degree-courses/summer-offers/summer-projects/amgen-scholars.html)
-✓ Fell asleep in a beach
-✓ Went squid fishing (and got like 2 squids)
-✓ Tell people I love that I love them
-✓ Rode a roller coaster (literally and figuratively)
-✓ Dressed up traditional costumes: yakuta, ao dai, German dirndl set
+- [x] Lived in 3 continents (Asia, Europe, America)
+- [x] Went on an Europan trip with my whole family (Sweden, Germany,  Czech, Autria, Italy, and a cruise to Helsinki!)
+- [x] Stayed in a castle (for a conference in Bertinoro)
+- [x] Watched a musical in London theather (Kinky Boots)
+- [x] Visited China town in London and San Francisco
+- [x] Learned Lindy Hop
+- [x] Published in Nature Genetics, Nature (and soon Nature Methods *finger crossed*)
+- [x] Blood donation in Hanoi, Bremen, London and Stockholm (finding place in CA)
+- [x] Organized parties
+- [x] Learned an instrument (piano)
+- [x] Saw the Northern Lights
+- [x] Had pets: cats, dogs, rabbit, fish, bird, mini turtle, hamster
+- [x] [Get featured in video](https://ethz.ch/en/studies/non-degree-courses/summer-offers/summer-projects/amgen-scholars.html)
+- [x] Fell asleep on a beach
+- [x] Went squid fishing (and got like 2 squids)
+- [x] Tell people I love that I love them
+- [x] Rode a roller coaster (literally and figuratively)
+- [x] Dressed up traditional costumes: yakuta, ao dai, German dirndl set
 
 
 # Ongoing
@@ -40,22 +40,22 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 
 
 # Future
-✗ Visit Africa
-✗ In Asia: Visit Japan, South Korea and Thailand, esp street foods and night markets
-✗ Eat sushi in Japan
-✗ Start a company
-✗ Try out coporate
-✗ Try out start-up
-✗ Fly in a private airplane or helicopter
-✗ Try some kind of performance arts (theater/movie)
-✗ Learn to ski and/or skate
-✗ Have a talk in front of > 500 people
-✗ Be a chef/baker in a restaurant/bakery
-✗ Plant a tree and watch it grow
-✗ Get a pet once I settle down in 1 place
-✗ Publish a book (if I ever become a writer)
-✗ Learn a martial art
-* Cosplay or dress-up
+- [ ] Visit Africa
+- [ ] In Asia: Visit Japan, South Korea and Thailand, esp street foods and night markets
+- [ ] Eat sushi in Japan
+- [ ] Start a company
+- [ ] Try out coporate
+- [ ] Try out start-up
+- [ ] Fly in a private airplane or helicopter
+- [ ] Try some kind of performance arts (theater/movie)
+- [ ] Learn to ski and/or skate
+- [ ] Have a talk in front of > 500 people
+- [ ] Be a chef/baker in a restaurant/bakery
+- [ ] Plant a tree and watch it grow
+- [ ] Get a pet once I settle down in 1 place
+- [ ] Publish a book (if I ever become a writer)
+- [ ] Learn a martial art
+- [ ] Cosplay or dress-up
 
 
 # Hightlights 
