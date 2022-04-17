@@ -23,7 +23,7 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 ✓ [Get featured in video](https://ethz.ch/en/studies/non-degree-courses/summer-offers/summer-projects/amgen-scholars.html)
 ✓ Fell asleep in a beach
 ✓ Went squid fishing (and got like 2 squids)
-✓ Told my family I love them
+✓ Tell people I love that I love them
 ✓ Rode a roller coaster (literally and figuratively)
 ✓ Dressed up traditional costumes: yakuta, ao dai, German dirndl set
 
@@ -55,6 +55,7 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 ✗ Get a pet once I settle down in 1 place
 ✗ Publish a book (if I ever become a writer)
 ✗ Learn a martial art
+* Cosplay or dress-up
 
 
 # Hightlights 
@@ -63,4 +64,3 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 * Most dynamic cities: London, Stockholm, San Francisco
 * Cheap and delicious foods at China town: Hong Kong bakeries (SF), japanese and chinese restaurants (London)
 * Best airport so far: Doha
-* Cosplay or dress-up
