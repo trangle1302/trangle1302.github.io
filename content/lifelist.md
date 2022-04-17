@@ -16,7 +16,7 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 - [x] Learned Lindy Hop
 - [x] Published in Nature Genetics, Nature (and soon Nature Methods *finger crossed*)
 - [x] Blood donation in Hanoi, Bremen, London and Stockholm (finding place in CA)
-- [x] Organized parties
+- [x] Organized parties in highschool
 - [x] Learned an instrument (piano)
 - [x] Saw the Northern Lights
 - [x] Had pets: cats, dogs, rabbit, fish, bird, mini turtle, hamster
@@ -44,12 +44,12 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 - [ ] In Asia: Visit Japan, South Korea and Thailand, esp street foods and night markets
 - [ ] Eat sushi in Japan
 - [ ] Start a company
-- [ ] Try out coporate
+- [ ] Try out corporate
 - [ ] Try out start-up
 - [ ] Fly in a private airplane or helicopter
 - [ ] Try some kind of performance arts (theater/movie)
 - [ ] Learn to ski and/or skate
-- [ ] Have a talk in front of > 500 people
+- [ ] Have a talk in front of 500+ people
 - [ ] Be a chef/baker in a restaurant/bakery
 - [ ] Plant a tree and watch it grow
 - [ ] Get a pet once I settle down in 1 place
@@ -59,7 +59,7 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 
 
 # Hightlights 
-* Best cocktail so far is at a hipster/underground bar that looks like an abandoned factory in Krakov
+* Best cocktail so far is at a hipster/underground bar that looks like an abandoned factory in Krakow
 * Beautiful cities: Lucern, Copenhagen, Brussels
 * Most dynamic cities: London, Stockholm, San Francisco
 * Cheap and delicious foods at China town: Hong Kong bakeries (SF), japanese and chinese restaurants (London)
