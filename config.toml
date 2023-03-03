@@ -35,11 +35,6 @@ disqusShortname = "yourdiscussshortname"
     url = "/publications"
     weight = 4
 
-  [[menu.main]]
-    name = "LifeList"
-    url = "/lifelist"
-    weight = 4
-
 [params]
     since = 2021
     author = "lengochaitrang@gmail.com"  # Author's name
