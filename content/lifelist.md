@@ -5,17 +5,17 @@ date = "2022-04-17"
   name = "Trang Le"
 +++
 
-Occationally, I'd second-guess myself. This is a list just to keep facts about what I've done, what I'm doing and want to do in the future.
+This is a (unorganized) list just to keep facts about what I've done, what I'm doing and want to do in the future.
 
 # Done
 - [x] Lived in 3 continents (Asia, Europe, America)
 - [x] Went on an Europan trip with my whole family (Sweden, Germany,  Czech, Autria, Italy, and a cruise to Helsinki!)
 - [x] Stayed in a castle (for a conference in Bertinoro)
 - [x] Watched a musical in London theather (Kinky Boots)
-- [x] Visited China town in London and San Francisco
+- [x] Visited China town in London, San Francisco, New York
 - [x] Learned Lindy Hop
-- [x] Published in Nature Genetics, Nature (and soon Nature Methods *finger crossed*)
-- [x] Blood donation in Hanoi, Bremen, London and Stockholm (finding place in CA)
+- [x] Published in Nature Genetics, Nature Methods, Nature
+- [x] Blood donation in Hanoi, Bremen, London, Stockholm, Palo Alto
 - [x] Organized parties in highschool
 - [x] Learned an instrument (piano)
 - [x] Saw the Northern Lights
@@ -30,12 +30,12 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 
 # Ongoing
 * Learn Swedish and Chinese
-* Have reviews/ratings on 100 books on Goodreads (45/100). Only books that have made influence on me in some way make it to my Goodreads, many more books that I've read did not make the cut.
+* Have reviews/ratings on 100 books on Goodreads (47/100). Only books that have made influence on me in some way make it to my Goodreads, many more books that I've read did not make the cut.
 * Finish my PhD
 * Be in a conscious, fulfilling relationship
 * Eat healthy
 * Continue bouldering, cyckling
-* Be kind, cpol and helpful
+* Be kind, cool and helpful
 * Be in complete acceptance with myself
 
 
@@ -61,6 +61,6 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 # Hightlights 
 * Best cocktail so far is at a hipster/underground bar that looks like an abandoned factory in Krakow
 * Beautiful cities: Lucern, Copenhagen, Brussels
-* Most dynamic cities: London, Stockholm, San Francisco
-* Cheap and delicious foods at China town: Hong Kong bakeries (SF), japanese and chinese restaurants (London)
+* Most dynamic cities: London, Stockholm, San Francisco, New York
+* Cheap and delicious foods at China town: Hong Kong bakeries (SF), japanese and chinese restaurants (London), Vietnamese and Thai restaurants (New York)
 * Best airport so far: Doha

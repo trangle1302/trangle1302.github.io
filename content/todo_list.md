@@ -26,6 +26,7 @@ Occationally, I'd second-guess myself. This is a list just to keep facts about w
 ✓ Tell people I love that I love them
 ✓ Rode a roller coaster (literally and figuratively)
 ✓ Dressed up traditional costumes: yakuta, ao dai, German dirndl set
+✓ Have a talk in front of ~100 people
 
 
 # Ongoing
