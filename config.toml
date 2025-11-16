@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 title = "Trang Le"
 theme = "KeepIt"
 
-pagination.pagerSize = 15
+paginate = 15
 enableEmoji = true
 enableRobotsTXT = true
 disqusShortname = "yourdiscussshortname"
