@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 title = "Trang Le"
 theme = "KeepIt"
 
-paginate = 15
+pagination.pagerSize = 15
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
