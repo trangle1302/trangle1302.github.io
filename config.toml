@@ -7,7 +7,6 @@ theme = "KeepIt"
 pagination.pagerSize = 15
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = ""
 disqusShortname = "yourdiscussshortname"
 
 [sitemap]
